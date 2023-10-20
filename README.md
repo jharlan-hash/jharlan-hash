@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jack.
+- 👀 I’m interested in becoming a full-stack developer and building a large portfolio to hopefully get into a good school.
+- 🌱 I’m currently learning Rust and following The Book
+- 💞️ I’m looking to collaborate on anything.
+- 📫 How to reach me - Add me on Discord @jharlancheese or email me at 25jaso@decorah.school
